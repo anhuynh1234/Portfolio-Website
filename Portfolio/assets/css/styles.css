@@ -253,7 +253,9 @@ nav ul li {
   min-height: 6.25rem;
   font-size: 14px;
 }
-
+/* .input-field{
+  background-color: rgb(157, 141, 141);
+} */
 .contact-form-container .input-field {
   width: 100%;
   padding-top: 10px;
@@ -267,7 +269,8 @@ nav ul li {
 
 .input-field::placeholder {
   padding: 0.5rem;
-  color: var(--primary-color);
+  color: black;
+  /* background-color: #b3a2ab; */
 }
 
 .submit-btn {
